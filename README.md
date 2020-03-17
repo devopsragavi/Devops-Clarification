@@ -14,6 +14,6 @@ Solutation:-
 select SH shell script and give like below.
 cp -r "sorce path" "destination path"
 
-
+sample
 
 https://github.com/jenkinsci/docker.git
